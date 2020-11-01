@@ -15,8 +15,9 @@ function App() {
 
 
   return (
-    <div className="App"> 
-    <h1> Todo App </h1>
+    <div className="App">
+   
+    <h1> THIS IS A SIMPLE TODO APP </h1>
 
     <form> 
       <input 
@@ -34,8 +35,10 @@ function App() {
     ))}
     
 
-
+    
     </div>
+    <footer> THIS IS A SIMPLE TODO APP </footer>
+    
   );
 }
 
