@@ -1,16 +1,12 @@
 
 .app
 .app__page {
-    margin-top: 10%;
-    margin-left: 10%;
-    margin-right: 10%;
-    
     display: flex;
     background: gray;
     text-transform: uppercase;
     font-weight: lighter;
     font-family: fantasy;
-    
+  
   }
   
   .App {
@@ -18,5 +14,8 @@
     font-family:Georgia, Times;
     background-color: darkgray;
     font-size: small;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
 
   }
