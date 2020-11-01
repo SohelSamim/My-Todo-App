@@ -35,10 +35,8 @@ function App() {
     ))}
     
 
-    
+
     </div>
-    <footer> THIS IS A SIMPLE TODO APP </footer>
-    
   );
 }
 
